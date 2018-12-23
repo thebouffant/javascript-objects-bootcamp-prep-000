@@ -1,5 +1,5 @@
 var playlist = {
-  "My Bloody Valentine": "California Love"
+  "My Bloody Valentine": "California Love",
   "Phil Ochs": "No idea"
 };
 
